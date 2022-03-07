@@ -1,4 +1,4 @@
-# Guide to Run The Proiject
+# Guide to Run The Project
 
 ## Production run guide:
 
@@ -12,3 +12,9 @@ In the project directory, you can run:
 ### `npm start`
 
 This will run the project in local host
+
+### Light House (it mainly checks the performance of your website in Moblie and Desktop)
+
+ 1) Select you target Website in Chrome
+ 2) Got Inspect
+ 3) Select lighthouse 
